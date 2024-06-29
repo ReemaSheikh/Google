@@ -33,7 +33,7 @@ The company can focus on generating more paid games to earn more revenue.
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Screenshot 2024-06-28 203905](https://github.com/ReemaSheikh/Projects/assets/171484655/68760b2e-318b-4252-8855-24168a7c42bb)
+![Screenshot 2024-06-28 211647](https://github.com/ReemaSheikh/Google/assets/171484655/c90fae63-0eda-4785-9cd3-8b521527d39c)
 
 # Insights
 
