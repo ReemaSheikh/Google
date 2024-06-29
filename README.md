@@ -28,7 +28,7 @@ The company can focus on generating more paid games to earn more revenue.
 
 # Snapshot of Dashboard (Power BI Service)
 
-![Screenshot 2024-06-28 212518](https://github.com/ReemaSheikh/Projects/assets/171484655/6eda78e8-7bc1-42a8-83ea-e144ec8ef8cf)
+![Screenshot 2024-06-28 212518](https://github.com/ReemaSheikh/Google/assets/171484655/8a0593ec-627a-4b1b-86a8-faf187d98cd6)
  
  # Report Snapshot (Power BI DESKTOP)
 
